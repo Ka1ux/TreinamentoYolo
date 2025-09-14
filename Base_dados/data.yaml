@@ -1,0 +1,7 @@
+path: data
+train: images/train/images
+val: images/valid/images
+nc: 2
+names:
+  - class0
+  - class1
